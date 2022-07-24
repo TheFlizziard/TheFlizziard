@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<h2> Connect With Me</h2>
+
+<a href = "https://www.linkedin.com/in/hugo-bessis/" target="_blank"><img width="40px" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+<a href = "mailto:hugob6@orange.fr" target="_blank"><img width="40px" src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
+
 <!--
 **TheFlizziard/TheFlizziard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
